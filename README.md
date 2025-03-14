@@ -1,6 +1,6 @@
 # Aetheryte
 
-A tool for parsing FFXIV's Lodestone for Character Profiles, in Ruby.
+A [Ruby Gem](https://rubygems.org/gems/aetheryte/) for parsing [FFXIV's Lodestone for Character Profiles](https://na.finalfantasyxiv.com/lodestone/character/13822072/)
 
 ```rb
 # example usage
@@ -49,5 +49,3 @@ Aetheryte.character(id: '13821953')
  @profile="-",
  @race="Lalafell">
 ```
-
-More docs, and features, coming soon...
